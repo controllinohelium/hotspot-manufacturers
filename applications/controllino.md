@@ -52,7 +52,7 @@ We would like to build a wide range of sensors that are usable out of the box an
 
 #### Software
 
-**Controllino Cloud** will launch in Q3/2021, enabling industry-ready IoT applications for your devices and sensors. We will make sure that every sensor product that will be produced after the Controllino IoT Cloud launch can be easily integrated, so you can visualize, process and manipulate the data of your sensors.
+**Controllino Cloud** will launch End 2022, enabling industry-ready IoT applications for your devices and sensors. We will make sure that every sensor product that will be produced after the Controllino IoT Cloud launch can be easily integrated, so you can visualize, process and manipulate the data of your sensors.
 
 #### Others
 
@@ -76,7 +76,7 @@ Furthermore, physical anti tampering measures as known from other industry hardw
 
 ## Hardware Information
 
-* Raspberry Pi 3B+ or 4
+* Raspberry Pi 4
 * 868/915 MHz LoRa PCIe Module based on SX1302
 * Sourcing: our components are sourced over European manufacturers and distributors with readily available stock that is already reserved for our products
 
@@ -99,7 +99,7 @@ The current chip sourcing crisis is affecting almost every company that uses ele
 
 # Updates
 
-## Updates on Device Hardware
+## Update 1 on Device Hardware
 
 As per DeWi guidelines and discussed with DeWi itself, we'd like to announce an update to our Controllino Hotspot:
 The device will receive an update as of April 2022 (called Hotspot V2), with an added LCD display on top of the housing, as well as additional LTE and WiFi options. The housing and other core features of the device remain the same.
@@ -110,7 +110,15 @@ As per DeWi guidelines, we'd like to announce a version of our Controllino Hotsp
 
 ## Update 3 on Device Hardware
 
-As per DeWi guidelines and to kick off the approval process with DeWi, we'd like to announce that we are planning to add a variation of our Controllino Hotspot that uses 2GB and 4GB RAM versions of Raspberry Pi 4 instead of 8GB RAM. This gives us increased sourcing flexibility.
+As per DeWi guidelines and to kick off the approval process with DeWi, we'd like to announce that we are planning to add a variation of our Controllino Hotspot that uses 2GB and 4GB RAM versions of Raspberry Pi 4 instead of 8GB RAM. This gives us increased sourcing flexibility. Meaning there will be 3 Variants:
+* Controllino Hotspot 2GB
+* Controllino Hotspot 4GB
+* Controllino Hotspot 8GB
+
+## Update 4 on Device Hardware
+
+Hotspot V2 (see Update 1) will be renamed to Hotspot Pro and the proposed idea to integrate a display will be discarded. Core features, RAM, CPU and more stays exactly the same, meaning hardware as well as software.
+
 
 ## Other information
 
@@ -121,5 +129,5 @@ As per DeWi guidelines and to kick off the approval process with DeWi, we'd like
 * Website: www.controllino.com
 * Join the Waitlist: https://hotspot.controllino.com
 * Contact info: helium@controllino.com and controllino.com/contact 
-* Payment methods available: Credit Card, PayPal, Cryptocurrency (Bitcoin, Bitcoin Cash, Ethereum, Dogecoin & Stablecoins (USDC, BUSD, GUSD, PAX, DAI))
+* Payment methods available: Credit Card, Bank Payments (SEPA), Sofortüberweisung, Crypto (soon)
 * Regions covered / shipped to: EU & North America, other supported regions coming soon
